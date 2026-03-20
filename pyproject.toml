@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "mcp-tools"
+name = "mcp-server-dev-kit"
 version = "0.1.0"
 description = "CLI toolkit for MCP servers — create, test, publish and manage Model Context Protocol servers"
 readme = "README.md"
